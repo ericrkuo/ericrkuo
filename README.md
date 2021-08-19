@@ -1,16 +1,23 @@
-### Hi there 👋
+<p>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?color=A69DD1&height=30&lines=Hello!+I'm+Eric"/>
+    <a/>
+    <br/>
+    <a href="https://www.linkedin.com/in/ericrkuo/">
+      <img src="https://img.shields.io/badge/-ericrkuo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ericrkuo/"/>
+    <a/>  
+</p>
 
-<!--
-**ericrkuo/ericrkuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A little about me:
+- 😄 Pronouns: he/him
+- 💼 Previous intern at Microsoft and Copperleaf
+- 📚 Studying Computer Science at the University of British Columbia
+- 📫 How to reach me: ericrkuo@gmail.com
+- 🌱 Always learning
 
-Here are some ideas to get you started:
+<a href="#stats" align="center">
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=ericrkuo&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
+       alt="ericrkuo"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
