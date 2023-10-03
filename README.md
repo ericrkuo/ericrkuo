@@ -10,8 +10,8 @@
 
 A little about me:
 - 😄 Pronouns: he/him
-- 💼 Previous intern at Microsoft and Copperleaf
-- 📚 Studying Computer Science at the University of British Columbia
+- 💼 Software Engineer at Micorosft and previous intern at Copperleaf
+- 📚 Studied Computer Science at the University of British Columbia
 - 📫 How to reach me: ericrkuo@gmail.com
 - 🌱 Always learning
 
